@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="hr" lang="hr">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>TravelPoint</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" />
+  <style type="text/css">
+    .pastel-blue-bg, .pastel-blue-footer {
+      background-color: #d1f8f9;
+    }
+    body {
+      
+      background-color: #f9f9f9;
+      margin: 0;
+    }
+    
+    
+    img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 0 auto 20px auto;
+    }
+   
+    .container1 {
+      margin: 30px;
+      padding: 30px;
+      
+    }
+   
+    
+  </style>
+</head>
+<body>
+<nav class="navbar navbar-expand-lg navbar-light pastel-blue-bg">
+    <div class="container">
+        
+      
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav ms-auto">
+                <li class="nav-item">
+                    <a class="nav-link text-dark" href="pocetna.xml">Početna</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-dark" href="ponude.php">Ponuda</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-dark" href="kontakt.xml">Kontakt</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+  <img src="slike/background.jpg" alt="TravelPoint banner" />
+
+  <div class="container1 pt-5">
+    <h1>Dobrodošli u TravelPoint</h1>
+    <p>Vaš vodič za nezaboravna putovanja</p> 
+    <p>Otkrijte najljepše destinacije, opustite se uz odabrane aranžmane i prepustite se avanturi bez brige. Bilo da sanjate o bijelim plažama, planinskim vrhovima ili europskim gradovima – mi ćemo to ostvariti. Putujte pametno. Putujte s nama.</p>
+    <p>Isplanirajte svoj odmor iz snova uz našu stručnu podršku i široku ponudu putovanja. Svaki detalj prilagođavamo vašim željama kako bi svako putovanje bilo jedinstveno i nezaboravno. Spremni ste za novu avanturu? Krenimo zajedno!</p>
+
+    <hr />
+
+    <article>
+      <h2>Zašto odabrati TravelPoint?</h2>
+      <p>Personalizirani aranžmani – Svako putovanje prilagođeno je vašim interesima, budžetu i vremenskom okviru.</p>
+      <p>Stručni tim – Naši iskusni agenti savjetovat će vas u svakoj fazi putovanja.</p>  
+      <p>Sigurnost i podrška 24/7 – Bez obzira gdje se nalazite, mi smo uvijek uz vas.</p>
+      <p>Povoljne cijene – Kvaliteta i pristupačnost idu ruku pod ruku.</p>
+      <p>Destinacije širom svijeta – Od popularnih turističkih središta do skrivenih bisera koje vrijedi otkriti.</p>
+    </article>
+
+    <hr />
+
+    <article>
+      <h2>Što nudimo?</h2>
+      <p>Grupna i individualna putovanja</p>
+      <p>Ljetovanja i zimovanja</p>
+      <p>Vikend izleti i city break aranžmani</p>
+      <p>Poslovna putovanja i team building programi</p>
+      <p>Romantična i medeni mjeseci</p>
+      <p>Tematska i avanturistička putovanja</p>
+    </article>
+  </div>
+
+  <footer class="pastel-blue-footer text-center py-5 mt-5">
+    <div class="container">
+      <p class="m-0">&copy; Nikolina Kranjc 2025.</p>
+    </div>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

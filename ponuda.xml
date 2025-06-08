@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Ponuda xmlns:xlink="http://www.w3.org/1999/xlink">
+
+    <Destinacija>
+        <Naziv>Maldivi</Naziv>
+        <Opis>Rajske plaže, kristalno čisto more i luksuzni rezorti.</Opis>
+        <Slika>slike/maldivi.jpeg</Slika>
+        <Cijena>1500 EUR</Cijena>
+        
+    </Destinacija>
+    <Destinacija>
+        <Naziv>Pariz</Naziv>
+        <Opis>Grad ljubavi i svjetlosti, poznat po Eiffelovom tornju i izvrsnoj kuhinji.</Opis>
+        <Slika>slike/pariz.jpg</Slika>
+        <Cijena>800 EUR</Cijena>
+
+    </Destinacija>
+    <Destinacija>
+        <Naziv>Bali</Naziv>
+        <Opis>Egzotični otok s prekrasnim plažama i bogatom kulturom.</Opis>
+        <Slika>slike/bali.jpg</Slika>
+        <Cijena>950 EUR</Cijena>
+    </Destinacija>
+    <Destinacija>
+        <Naziv>New York</Naziv>
+        <Opis>Grad koji nikada ne spava, pun znamenitosti i zabave.</Opis>
+        <Slika>slike/new york.jpeg</Slika>
+        <Cijena>1200 EUR</Cijena>
+        
+    </Destinacija>
+    <Destinacija>
+        <Naziv>Tokyo</Naziv>
+        <Opis>Moderna metropola sa spojem tradicije i futurističkog života.</Opis>
+        <Slika>slike/tokyo.jpg</Slika>
+        <Cijena>1300 EUR</Cijena>
+        
+    </Destinacija>
+     <Destinacija>
+        <Naziv>Barcelona</Naziv>
+        <Opis>Kultura, arhitektura Gaudíja i španjolski šarm na svakom koraku.</Opis>
+        <Slika>slike/barcelona.jpg</Slika>
+        <Cijena>850 EUR</Cijena>
+
+    </Destinacija>
+    
+
+
+</Ponuda>
